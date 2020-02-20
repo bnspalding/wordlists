@@ -12,6 +12,12 @@ Lists should all be coming from sources with permissive licenses. Be sure to
 review the Sources section below for more information on the origin of each
 source.
 
+Additionally, please note that these sources contain a variety of words in the
+English language and therefore represent a variety of speakers that may not be
+sufficiently filtered for direct use. It is highly recommended that,
+particularly in a generative context, you consider the use of a filter before
+applying any of these lists to your work.
+
 ## Sources
 
 - **cmudict.words**: the [CMU Pronouncing
