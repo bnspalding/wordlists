@@ -29,5 +29,5 @@ source.
   Book](https://simple.wikipedia.org/wiki/Wikipedia:VOA_Special_English_Word_Book)
   word list.
 - **leipzig-jakarta.words**: is a word list published by the Max Planck Digital
-  Library. Read more
-  [here](https://en.wikipedia.org/wiki/Leipzig%E2%80%93Jakarta_list)
+  Library. It contains words that are unlikely to be borrowed from another
+  language. [Link](https://en.wikipedia.org/wiki/Leipzig%E2%80%93Jakarta_list)
