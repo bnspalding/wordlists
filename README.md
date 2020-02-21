@@ -16,7 +16,8 @@ Additionally, please note that these sources contain a variety of words in the
 English language and therefore represent a variety of speakers that may not be
 sufficiently filtered for direct use. It is highly recommended that,
 particularly in a generative context, you consider the use of a filter before
-applying any of these lists to your work.
+applying any of these lists to your work. I have a set of filter lists that I
+use for my own work [here](https://github.com/bnspalding/filterwords)
 
 ## Sources
 
