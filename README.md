@@ -25,19 +25,22 @@ use for my own work [here](https://github.com/bnspalding/filterwords)
   Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict); note, however, this
   particular list was generated from a project by Noah Constant called [The CMU
   Pronouncing Dictionary in IPA](https://people.umass.edu/nconstan/CMU-IPA)
-- **wordnet3-1.words**: [Wordnet](https://wordnet.princeton.edu/)
+  (123611 words)
+- **wordnet3-1.words**: [Wordnet](https://wordnet.princeton.edu/) (147478 words)
 - **ogden850.words**: Taken from Wikipedia's [Basic English word
-  list](https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list)
+  list](https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list) (852
+  words)
 - **basic-english-combined.words**: Taken from Wikipedia's [Basic English combined
-  wordlist](https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_combined_wordlist)
+  wordlist](https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_combined_wordlist) (2031 words)
 - **voa-special-english.words**: The "VOA Special English" list is provided by
   "Voice of America", the official US international broadcasting service. This
   list was taken from Wikipedia's [VOA Special English Word
   Book](https://simple.wikipedia.org/wiki/Wikipedia:VOA_Special_English_Word_Book)
-  word list.
+  word list. (1485 words)
 - **leipzig-jakarta.words**: is a word list published by the Max Planck Digital
   Library. It contains words that are unlikely to be borrowed from another
   language. [Link](https://en.wikipedia.org/wiki/Leipzig%E2%80%93Jakarta_list)
+  (114 words)
 - **iliad-pope.words**: is the set of words used in Alexander Pope's translation
   of The Iliad, taken from [Project
-  Gutenberg](https://www.gutenberg.org/ebooks/6130)
+  Gutenberg](https://www.gutenberg.org/ebooks/6130) (9175 words)
