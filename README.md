@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This repo contains a collection of word lists that I've collected and polished
-from a variety of sources. These word lists all seek to represent some useful, 
-general subset of the English language. Words are written one-per-line, 
+This repo contains word lists that I've gathered and polished
+from a variety of sources. I use these lists primarily in a generative context,
+as productive material for creative output. Words are written one-per-line, 
 normalized to lower case (i not I), and spaces within multi-word words have been
 replaced with underscores (new_york not New York).
 
@@ -38,3 +38,6 @@ use for my own work [here](https://github.com/bnspalding/filterwords)
 - **leipzig-jakarta.words**: is a word list published by the Max Planck Digital
   Library. It contains words that are unlikely to be borrowed from another
   language. [Link](https://en.wikipedia.org/wiki/Leipzig%E2%80%93Jakarta_list)
+- **iliad-pope.words**: is the set of words used in Alexander Pope's translation
+  of The Iliad, taken from [Project
+  Gutenberg](https://www.gutenberg.org/ebooks/6130)
