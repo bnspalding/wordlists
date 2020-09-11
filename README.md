@@ -21,13 +21,16 @@ use for my own work [here](https://github.com/bnspalding/filterwords)
 
 ## Sources
 
+Sources are ordered in the table by word count. Please see the included links
+for more information about the sources.
+
 Source Name | Description | Word Count
 ----------- | ----------- | ----------
-basic-english-combined | from Wikipedia's [Basic English combined wordlist](https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_combined_wordlist) | 2031
-cmudict | the [CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict); note, however, this particular list was generated from a project by Noah Constant called [The CMU Pronouncing Dictionary in IPA](https://people.umass.edu/nconstan/CMU-IPA) | 123611
-iliad-pope | the set of words used in Alexander Pope's translation of The Iliad, taken from [Project Gutenberg](https://www.gutenberg.org/ebooks/6130) | 9175
 leipzig-jakarta | word list published by the Max Planck Digital Library. It contains words that are unlikely to be borrowed from another language [Link](https://en.wikipedia.org/wiki/Leipzig%E2%80%93Jakarta_list) | 114
-mylex | a personally curated set of words that approximates the lexicon I would use in creative work | 22743
 ogden850 | taken from Wikipedia's [Basic English word list](https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list) | 852
-wordnet3-1 | see [Wordnet](https://wordnet.princeton.edu/) | 147478
 voa-special-english | The "VOA Special English" list is provided by "Voice of America", the official US international broadcasting service. This list was taken from Wikipedia's [VOA Special English Word Book](https://simple.wikipedia.org/wiki/Wikipedia:VOA_Special_English_Word_Book) word list | 1485
+basic-english-combined | from Wikipedia's [Basic English combined wordlist](https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_combined_wordlist) | 2031
+iliad-pope | the set of words used in Alexander Pope's translation of The Iliad, taken from [Project Gutenberg](https://www.gutenberg.org/ebooks/6130) | 9175
+mylex | a personally curated set of words that approximates the lexicon I would use in creative work | 22743
+cmudict | the [CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict); note, however, this particular list was generated from a project by Noah Constant called [The CMU Pronouncing Dictionary in IPA](https://people.umass.edu/nconstan/CMU-IPA) | 123611
+wordnet3-1 | see [Wordnet](https://wordnet.princeton.edu/) | 147478
