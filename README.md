@@ -17,7 +17,7 @@ English language and therefore represent a variety of speakers that may not be
 sufficiently filtered for direct use. It is highly recommended that,
 particularly in a generative context, you consider the use of a filter before
 applying any of these lists to your work. I have a set of filter lists that I
-use for my own work [here](https://github.com/bnspalding/filterwords)
+use for my own work [here](https://github.com/bnspalding/filterwords).
 
 ## Sources
 
@@ -34,3 +34,23 @@ iliad-pope | the set of words used in Alexander Pope's translation of The Iliad,
 mylex | a personally curated set of words that approximates the lexicon I would use in creative work | 22743
 cmudict | the [CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict); note, however, this particular list was generated from a project by Noah Constant called [The CMU Pronouncing Dictionary in IPA](https://people.umass.edu/nconstan/CMU-IPA) | 123611
 wordnet3-1 | see [Wordnet](https://wordnet.princeton.edu/) | 147478
+
+## Pronunciation Information
+
+Pronunciation information for word lists is kept in the 'ipa' folder.
+Pronunciations loosely align to the [General American English
+accent](https://en.wikipedia.org/wiki/General_American_English), but may deviate
+at times from expectations due to incongruities in the pronunciation data sources
+or the author's personal accent. The source of pronunciation information for
+many words is Wiktionary, but quite a few have been written in or corrected by 
+hand.
+
+Pronunciation files contain two tab-separated columns with no header. The first
+column is the word's orthography (the word written). The
+second column contains an IPA representation of the word's pronunciation
+(including stress and syllable breaks). Note a single orthography may have
+multiple representations, and these are listed on separate lines. For example,
+_a bow_ (bo͡ʊ) _on the present_ and _the bow_ (ba͡ʊ) _of the ship_ will have
+separate entries in the list. The word count of a .ipa file is therefore not the
+number of words, but instead the number of unique (orthography, pronunciation)
+pairs in the file.
