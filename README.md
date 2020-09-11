@@ -27,6 +27,8 @@ use for my own work [here](https://github.com/bnspalding/filterwords)
   Pronouncing Dictionary in IPA](https://people.umass.edu/nconstan/CMU-IPA)
   (123611 words)
 - **wordnet3-1.words**: [Wordnet](https://wordnet.princeton.edu/) (147478 words)
+- **mylex.words**: a personally curated set of words that approximates the
+  lexicon I would use in creative work. (22743 words)
 - **ogden850.words**: Taken from Wikipedia's [Basic English word
   list](https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list) (852
   words)
