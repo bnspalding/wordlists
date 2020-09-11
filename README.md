@@ -51,6 +51,6 @@ second column contains an IPA representation of the word's pronunciation
 (including stress and syllable breaks). Note a single orthography may have
 multiple representations, and these are listed on separate lines. For example,
 _a bow_ (bo͡ʊ) _on the present_ and _the bow_ (ba͡ʊ) _of the ship_ will have
-separate entries in the list. The word count of a .ipa file is therefore not the
+separate entries in the list. The line count of a .ipa file is therefore not the
 number of words, but instead the number of unique (orthography, pronunciation)
 pairs in the file.
